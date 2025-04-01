@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+To numbers are generated and added together
 
 ## How to test
 
-Explain how to use your project
+Try entering different numbers
 
 ## External hardware
 
